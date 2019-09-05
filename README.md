@@ -1,1 +1,1 @@
-Timeseries of Midwestern Cities Temperature variation in contrast to Global Temperature variation.
+Timeseries of US Midwestern cities temperature variation in contrast to Global temperature variation.
